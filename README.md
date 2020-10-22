@@ -4,7 +4,7 @@ Bots framework for stocks strategy testing. History automatically downloads from
 ## Install requirements
 
 ```shell
-./manager.sh install
+pip3 install -r requirements.txt
 ```
 
 ## Simple bot example
