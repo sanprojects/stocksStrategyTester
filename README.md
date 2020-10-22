@@ -1,5 +1,5 @@
 # Python stocks strategy tester
-Bots framework for stocks strategy testing 
+Bots framework for stocks strategy testing. History automatically downloads from yahoo finance.  
 
 ## Install requirements
 
