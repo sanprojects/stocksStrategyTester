@@ -1,5 +1,4 @@
-import bot, pandas
-
+import bot
 
 
 class SimpleBot(bot.Bot):

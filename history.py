@@ -1,8 +1,8 @@
-import yfinance, httpHelper
+import yfinance, utils
 import pandas as pd
 
-httpHelper.enableLogger()
-httpHelper.enableCache()
+utils.http.enableLogger()
+utils.http.enableCache()
 
 pd.options.mode.chained_assignment = None  # default='warn'
 cache = {}
